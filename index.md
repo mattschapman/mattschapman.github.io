@@ -16,6 +16,8 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 ### Using BERT and LSTM models for multilabel text classification of ArXiv papers
 ArXiv is a popular open-access distribution service for scientific articles. In this project, I compared the performance of LSTM and BERT models for predicting the subject and year of papers given their abstract text.  
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/ArXiv-white?logo=arxiv)](#)
+
 [View code on Colab](/pdf/sample_presentation.pdf)
 
 
