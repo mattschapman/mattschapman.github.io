@@ -1,5 +1,3 @@
-# Welcome to my portfolio :wave:
-
 ## Selected projects in data science, machine learning and NLP
 
 ---
@@ -61,6 +59,13 @@ Machine learning has enormous potential, yet a significant barrier to its adopti
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
+
+---
+
+## Examining panic-buying during the first wave of Covid-19, using mobility data
+The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+
+<img src="images/mobility.png?raw=true" />
 
 ---
 
