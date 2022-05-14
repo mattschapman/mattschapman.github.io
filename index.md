@@ -81,9 +81,9 @@ View code on Github
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
-- [Profiling and benchmarking code](http://example.com/)
-- [Unsupervised learning](http://example.com/)
-- [Backpropagation by hand](http://example.com/)
+- [Profiling and benchmarking code](#)
+- [Unsupervised learning](#)
+- [Backpropagation by hand](#)
 
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
