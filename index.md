@@ -32,6 +32,17 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
+### Geospatial analysis of deprivation in London using virtual environments and Geopandas
+Virtual environments can be used to overcome dependency issues when installing new software packages. In this project, I show how a virtual environment can be used to install the Python package `geopandas` and use this to visualise data on deprivation levels in London. 
+
+<img src="images/london2.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+
+[View code on Colab](/pdf/sample_presentation.pdf)
+
+---
+
 ### Optimising code with multiprocessing
 To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed up the execution of "embarrassingly parallel" problems in Python code, we can run subparts of a progam in parallel (that is, simultaneouly) on multiple CPUs. In this project, I use multiprocessing to count tweets written near London. 
 
@@ -47,17 +58,6 @@ Machine learning has enormous potential, yet a significant barrier to its adopti
 <img src="images/cat_lime.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[View code on Colab](/pdf/sample_presentation.pdf)
-
----
-
-### Using virtual environments and Geopandas to visualise geospatial data
-Virtual environments can be used to overcome dependency issues when installing new software packages. In this project, I show how a virtual environment can be used to install the Python package `geopandas` and use this to visualise data on deprivation levels in London. 
-
-<img src="images/london2.png?raw=true"/>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
@@ -82,12 +82,9 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Profiling and benchmarking code](http://example.com/)
+- [Unsupervised learning](http://example.com/)
+- [Backpropagation by hand](http://example.com/)
 
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
