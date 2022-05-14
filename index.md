@@ -29,7 +29,7 @@ Virtual environments can be used to overcome dependency issues when installing n
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Colab](/pdf/sample_presentation.pdf)
+View code on Colab
 
 ---
 
@@ -47,18 +47,18 @@ To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](/pdf/sample_presentation.pdf)
+View code on Github
 
 ---
 
 ### Interpretable machine learning: Parital Dependece Plots, LIME and Shapley values
-Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer. 
+Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into various models. 
 
 <img src="images/cat_lime.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
-[View code on Colab](/pdf/sample_presentation.pdf)
+[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
 ---
 
@@ -69,7 +69,7 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
-[View code on Colab](/pdf/sample_presentation.pdf)
+View code on Github
 
 ---
 
