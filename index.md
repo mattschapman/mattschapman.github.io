@@ -1,4 +1,4 @@
-## Selected projects
+## Selected projects in data science, machine learning and NLP
 
 ---
 
@@ -33,8 +33,8 @@ To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed 
 
 ---
 
-### Interpretable Machine Learning with LIME and Shapley values
-Machine Learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer.  
+### Interpretable machine learning with LIME and Shapley values
+Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer.  
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
