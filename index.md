@@ -1,4 +1,4 @@
-## Portfolio
+## Selected projects
 
 ---
 
@@ -59,7 +59,7 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
-### Skills-based projects
+## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Project 1 Title](http://example.com/)
@@ -74,5 +74,5 @@ A selection of smaller projects demonstrating specific data science and ML skill
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
