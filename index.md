@@ -27,38 +27,38 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 ---
 
 ### Optimising code with multiprocessing
-
+To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed up the execution of "embarrassingly parallel" problems in Python code, we can run subparts of a progam in parallel (that is, simultaneouly) on multiple CPUs. In this project, I use multiprocessing to count tweets written near London. 
 
 [View code on Github](/pdf/sample_presentation.pdf)
 
 ---
 
-### Interpretable Machine Learning with LIME and SHAP
-
+### Interpretable Machine Learning with LIME and Shapley values
+Machine Learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer.  
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
 ---
 
 ### Using virtual environments and Geopandas to visualise geospatial data
-
-
-[View code on Colab](/pdf/sample_presentation.pdf)
-
----
-
-### Using multi-level modelling in R to mitigate spatial autocorrelation
-
+Virtual environments can be used to create multiple instances of software, which can be used to overcome dependency issues when installing new packages. In this project, I show how a virtual environment can be used to install the Python package `geopandas` and use this to visualise data on deprivation levels in London. 
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
 ---
 
-[Project 3 Title](http://example.com/)
+### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
+In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
+
+[View code on Colab](/pdf/sample_presentation.pdf)
+
+---
+
+<!-- [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
+ -->
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
@@ -68,11 +68,7 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
 
 
-
-
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
