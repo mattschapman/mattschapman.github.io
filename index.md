@@ -41,8 +41,10 @@ To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed 
 
 ---
 
-### Interpretable machine learning with LIME and Shapley values
-Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer.  
+### Interpretable machine learning: Parital Dependece Plots, LIME and Shapley values
+Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer. 
+
+<img src="images/cat_lime.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
