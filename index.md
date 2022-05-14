@@ -20,16 +20,6 @@ ArXiv is a popular open-access distribution service for scientific articles. In 
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
-
----
-
-### Implementing a custom data collection pipeline using Scrapy and MongoDB
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
-[View code on Github](/pdf/sample_presentation.pdf)
-
 ---
 
 ### Geospatial analysis of deprivation in London using virtual environments and Geopandas
@@ -40,6 +30,15 @@ Virtual environments can be used to overcome dependency issues when installing n
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 [View code on Colab](/pdf/sample_presentation.pdf)
+
+---
+
+### Implementing a custom data collection pipeline using Scrapy and MongoDB
+The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+
+[View code on Github](/pdf/sample_presentation.pdf)
 
 ---
 
