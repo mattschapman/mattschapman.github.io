@@ -42,15 +42,6 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
-### Optimising code with multiprocessing
-To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed up the execution of "embarrassingly parallel" problems in Python code, we can run subparts of a progam in parallel (that is, simultaneouly) on multiple CPUs. In this project, I use multiprocessing to count tweets written near London. 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
-View code on Github
-
----
-
 ### Interpretable machine learning: Parital Dependece Plots, LIME and Shapley values
 Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into various models. 
 
@@ -62,10 +53,15 @@ Machine learning has enormous potential, yet a significant barrier to its adopti
 
 ---
 
-## Examining panic-buying during the first wave of Covid-19, using mobility data
+### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
 <img src="images/mobility.png?raw=true" />
+
+---
+
+### Did lockdowns influence the types of music people were listening to?
+
 
 ---
 
@@ -75,6 +71,15 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+View code on Github
+
+---
+
+### Optimising code with multiprocessing
+To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed up the execution of "embarrassingly parallel" problems in Python code, we can run subparts of a progam in parallel (that is, simultaneouly) on multiple CPUs. In this project, I use multiprocessing to count tweets written near London. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 View code on Github
 
