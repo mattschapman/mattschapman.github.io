@@ -19,17 +19,41 @@ ArXiv is a popular open-access distribution service for scientific articles. In 
 
 ---
 
-### Using Scrapy and MongoDB to collect web data
+### Implementing a custom data collection pipeline using Scrapy and MongoDB
 The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
 
 [View code on Github](/pdf/sample_presentation.pdf)
 
+---
+
+### Optimising code with multiprocessing
+
+
+[View code on Github](/pdf/sample_presentation.pdf)
 
 ---
 
-### 
+### Interpretable Machine Learning with LIME and SHAP
+
+
+[View code on Colab](/pdf/sample_presentation.pdf)
 
 ---
+
+### Using virtual environments and Geopandas to visualise geospatial data
+
+
+[View code on Colab](/pdf/sample_presentation.pdf)
+
+---
+
+### Using multi-level modelling in R to mitigate spatial autocorrelation
+
+
+[View code on Colab](/pdf/sample_presentation.pdf)
+
+---
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
