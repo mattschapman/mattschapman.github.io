@@ -11,9 +11,23 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 ---
 
-### BERT for helpfulness prediction of Amazon reviews
+### Using BERT and LSTM models for multilabel text classification of ArXiv papers
+ArXiv is a popular open-access distribution service for scientific articles. In this project, I compared the performance of LSTM and BERT models for predicting the subject and year of papers given their abstract text.  
 
 [View code on Colab](/pdf/sample_presentation.pdf)
+
+
+---
+
+### Using Scrapy and MongoDB to collect web data
+The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+
+[View code on Github](/pdf/sample_presentation.pdf)
+
+
+---
+
+### 
 
 ---
 [Project 3 Title](http://example.com/)
