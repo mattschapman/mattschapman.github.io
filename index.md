@@ -55,6 +55,8 @@ Machine learning has enormous potential, yet a significant barrier to its adopti
 ### Using virtual environments and Geopandas to visualise geospatial data
 Virtual environments can be used to create multiple instances of software, which can be used to overcome dependency issues when installing new packages. In this project, I show how a virtual environment can be used to install the Python package `geopandas` and use this to visualise data on deprivation levels in London. 
 
+<img src="images/london.png?raw=true"/>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
 
 [View code on Colab](/pdf/sample_presentation.pdf)
