@@ -2,7 +2,8 @@
 
 ---
 
-### Category Name 1 
+### The Fragile Families Challenge
+The Fragile Families Challenge (FFC) was a predictive modelling challenge in which participants were charged with predicting six life outcomes (GPA, material hardship, grit, eviction, layoff, and job training) for 4,242 children and their families. 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +18,8 @@
 
 ---
 
-### Category Name 2
+### Skills-based projects
+A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
