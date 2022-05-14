@@ -7,6 +7,8 @@ The Fragile Families Challenge was a predictive modelling challenge commissioned
 
 I took part in this challenge, using various ML and NLP techniques including: (i) imputing missing values using word embeddings and KNN, (ii) modelling with LASSO, Random Forests and XGBoost models, (iii) Bayesian hyperparameter optimisation, and (iv) using feature importance scores to interpret the models' predictions. 
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](link)
+
 [View code on Colab](/sample_page)
 
 ---
