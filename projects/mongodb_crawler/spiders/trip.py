@@ -5,10 +5,8 @@ import time
 
 class TripSpider(scrapy.Spider):
     name = 'trip'
-    start_urls = ['https://www.tripadvisor.com/Restaurant_Review-g186361-d23663724-Reviews-The_Gurkha_Palace_The_Chequers_Inn-Oxford_Oxfordshire_England.html', 
-                  'https://www.tripadvisor.com/Restaurant_Review-g186361-d14947327-Reviews-Antep_Kitchen-Oxford_Oxfordshire_England.html']
-    # with open('np.txt', 'r') as f:
-    #     start_urls = [url.strip() for url in f.readlines()]
+    with open('np.txt', 'r') as f:
+        start_urls = [url.strip() for url in f.readlines()]
 
     def parse(self, response):
 
