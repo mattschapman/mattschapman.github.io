@@ -38,7 +38,7 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](/pdf/sample_presentation.pdf)
+[View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/master/projects/mongodb_crawler/spiders)
 
 ---
 
