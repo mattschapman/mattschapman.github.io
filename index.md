@@ -27,12 +27,15 @@ ArXiv is a popular open-access distribution service for scientific articles. In 
 The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#)
+
 [View code on Github](/pdf/sample_presentation.pdf)
 
 ---
 
 ### Optimising code with multiprocessing
 To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed up the execution of "embarrassingly parallel" problems in Python code, we can run subparts of a progam in parallel (that is, simultaneouly) on multiple CPUs. In this project, I use multiprocessing to count tweets written near London. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
 
 [View code on Github](/pdf/sample_presentation.pdf)
 
@@ -41,6 +44,8 @@ To overcome the limitations of Python's Global Interpreter Lock (GIL) and speed 
 ### Interpretable machine learning with LIME and Shapley values
 Machine learning has enormous potential, yet a significant barrier to its adoption in many fields is the lack of interpretability of many black box models. In this project, I use several techniques to gain insights into models for predicting cervical cancer.  
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 [View code on Colab](/pdf/sample_presentation.pdf)
 
 ---
@@ -48,12 +53,16 @@ Machine learning has enormous potential, yet a significant barrier to its adopti
 ### Using virtual environments and Geopandas to visualise geospatial data
 Virtual environments can be used to create multiple instances of software, which can be used to overcome dependency issues when installing new packages. In this project, I show how a virtual environment can be used to install the Python package `geopandas` and use this to visualise data on deprivation levels in London. 
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
+
 [View code on Colab](/pdf/sample_presentation.pdf)
 
 ---
 
 ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
 In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
+
+[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 [View code on Colab](/pdf/sample_presentation.pdf)
 
