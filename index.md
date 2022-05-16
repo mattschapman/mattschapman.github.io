@@ -6,9 +6,9 @@ At age 18, while working as a cold caller in a telesales team, I built my first 
 
 The reason I tell this story is because it demonstrates why I love working with data: they can be a tool for empowering people and uplifting businesses. 
 
-In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My CV has plenty of information about the projects I've worked on, but the purpose of this page is to showcase some of my favourite personal/on-the-side projects in a more visual way. 
+In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://github.com/mattschapman/mattschapman.github.io/blob/master/pdf/Matt_Chapman_CV.pdf) has plenty of information about the projects I've worked on, but the purpose of this page is to showcase some of my favourite personal/on-the-side projects in a more visual way. 
 
-If you have any questions, feel free to drop me an email or send me a message on LinkedIn. 
+If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/matt-chapman-ba8488118/). 
 
 Thanks for reading,
 
