@@ -1,5 +1,6 @@
-# 👋 Welcome
-Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've worked on.
+👋 Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've worked on.
+
+At age 18, while working as a cold caller in a telesales team, I began building my first data product: a recommendation engine which predcited customers' propensity to buy. Since then, I've worked in a variety of industries, but have never lost the 
 
 ## Selected projects in data science, machine learning and NLP
 
