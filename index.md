@@ -1,4 +1,6 @@
-👋 Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
+## 👋 Welcome to my portfolio
+
+Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
 
 At age 18, while working as a cold caller in a telesales team, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10% (talk about diminishing returns!). 
 
@@ -11,6 +13,8 @@ If you have any questions, feel free to drop me an email or send me a message on
 Thanks for reading,
 
 Matt
+
+---
 
 ## Selected projects in data science, machine learning and NLP
 
