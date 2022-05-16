@@ -2,13 +2,14 @@
 
 At age 18, while working as a cold caller in a telesales team, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10% (talk about diminishing returns!). 
 
-The reason I tell this story is because it demonstrates why I love working with data: they can be a tool for empowering people and uplifting businesses. If you're a recruiter reading this, I'm sure you meet plenty of people who are "passionate" about working with data. For me, though, data really come to life when they are connected with a broader purpose of helping our businesses, governments, and societies to do better. 
+The reason I tell this story is because it demonstrates why I love working with data: they can be a tool for empowering people and uplifting businesses. 
 
 In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My CV has plenty of information about the projects I've worked on, but the purpose of this page is to showcase some of my favourite personal/on-the-side projects in a more visual way. 
 
 If you have any questions, feel free to drop me an email or send me a message on LinkedIn. 
 
 Thanks for reading,
+
 Matt
 
 ## Selected projects in data science, machine learning and NLP
