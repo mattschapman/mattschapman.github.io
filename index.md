@@ -4,7 +4,7 @@ Hello! My name is Matt, and I set up this page to showcase some of the data scie
 
 At age 18, while working as a cold caller in a telesales team, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10% (talk about diminishing returns!). 
 
-The reason I tell this story is because it demonstrates why I love working with data: they can be a tool for empowering people and uplifting businesses. 
+The reason I tell this story is because I think it shows what data can and should be: a tool for empowering people and uplifting businesses. 
 
 In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://mattschapman.github.io/pdf/Matt_Chapman_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
 
