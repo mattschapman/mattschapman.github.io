@@ -1,4 +1,4 @@
-# 👋
+# 👋 Welcome
 Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've worked on.
 
 ## Selected projects in data science, machine learning and NLP
