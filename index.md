@@ -1,21 +1,3 @@
-## 👋 Welcome to my portfolio
-
-Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
-
-At age 18, while working as a cold caller in a telesales team at Ovo Energy, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10%. 
-
-The reason I tell this story is because I think it shows what data can and should be: a tool for empowering people and uplifting businesses. 
-
-In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://mattschapman.github.io/pdf/Matt_Chapman_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
-
-If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/matt-chapman-ba8488118/). 
-
-Thanks for reading,
-
-Matt
-
----
-
 ## Selected projects in data science, machine learning and NLP
 
 ---
@@ -128,3 +110,21 @@ A selection of smaller projects demonstrating specific data science and ML skill
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
+
+## 👋 Welcome to my portfolio
+
+Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
+
+At age 18, while working as a cold caller in a telesales team at Ovo Energy, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10%. 
+
+The reason I tell this story is because I think it shows what data can and should be: a tool for empowering people and uplifting businesses. 
+
+In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://mattschapman.github.io/pdf/Matt_Chapman_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
+
+If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/matt-chapman-ba8488118/). 
+
+Thanks for reading,
+
+Matt
+
+---
