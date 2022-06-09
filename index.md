@@ -2,22 +2,13 @@
 
 ---
 
-### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
-The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Amazon-white?logo=Amazon)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
-
----
-
 ### Deep NLP for hate speech detection
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using the PyTorch framework and a pre-trained BERT model. 
+Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using the PyTorch framework and a pre-trained BERT model.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
@@ -130,6 +121,16 @@ If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc
 Thanks for reading,
 
 Matt
+
+---
+ -->
+ 
+<!--  ### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
+The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Amazon-white?logo=Amazon)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
 
 ---
  -->
