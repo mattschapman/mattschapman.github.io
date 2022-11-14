@@ -2,6 +2,16 @@
 
 ---
 
+### Deep NLP for hate speech detection
+
+Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
+---
+
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
@@ -13,28 +23,7 @@ View code on Colab
 
 ---
 
-### Deep NLP for hate speech detection
-
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using the PyTorch framework and a pre-trained BERT model.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
-
----
-
-### Interpretable machine learning: Parital Dependence Plots, LIME and Shapley values
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
-
-<img src="images/interpretable.png?raw=true"/>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
-
----
-
-### The Fragile Families Challenge
+### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
 The Fragile Families Challenge was a predictive modelling challenge commissioned by researchers at Princeton University in 2017. In the challenge, participants were tasked with predicting six life outcomes (GPA, material hardship, grit, eviction, layoff, and job training) for 4,242 children based on their cirumstances between birth and age 9. 
 
 I took part in this challenge, using various ML and NLP techniques including: (i) imputing missing values using word embeddings and KNN, (ii) modelling with LASSO, Random Forests and XGBoost models, (iii) Bayesian hyperparameter optimisation, and (iv) using feature importance scores to interpret the models' predictions. 
@@ -62,6 +51,17 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 View code on Colab
+
+---
+
+### Interpretable machine learning: Parital Dependence Plots, LIME and Shapley values
+A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
+
+<img src="images/interpretable.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
 ---
 
